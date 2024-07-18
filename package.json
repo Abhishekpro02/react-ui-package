@@ -1,6 +1,6 @@
 {
   "name": "abhi-react-lib",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "abhishek react package",
   "type": "module",
   "main": "dist/index.js",
